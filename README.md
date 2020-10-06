@@ -11,7 +11,7 @@
 
 ### 4. R Text Mining
 
-### 5. Python Machine Learning
+### 5. Python Machine Learning [20200514]
 #### Supervised Learning
 - KNN(K-Nearest_Neighbor)
 - Linear regression
