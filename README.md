@@ -32,3 +32,10 @@
 - K-Means
 - Agglomerative Clustering
 - DBSCAN
+
+### 6. MATLAB Machine Learning
+
+### 7. R Machine Learning [20200501]
+
+
+### 8. Kaggle Tutorials
