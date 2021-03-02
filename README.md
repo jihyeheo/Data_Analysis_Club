@@ -40,7 +40,8 @@
 ### 7. R Machine Learning [20200501]
 
 
-### 8. Kaggle Tutorials [20200910]
+### 8. Kaggle Tutorials [20200910][20210202]
+
 
 ### 9. Pytorch Basic [20210107]
 
